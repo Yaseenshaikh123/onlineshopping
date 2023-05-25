@@ -1,0 +1,6 @@
+body{
+    background-color: red;
+}
+header,.bio,.freinds,footer{
+    width:1000px;
+}
